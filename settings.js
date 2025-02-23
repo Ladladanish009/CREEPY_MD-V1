@@ -1,14 +1,14 @@
 //Created by Danny 
 //Dont clone cause if i catch you i will flag you immediately 
-//contact me wa.me/255697608274
+//contact me wa.me/+923448490118
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
-global.ownername = "𝒟𝒶𝓃𝓃𝓎"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernomer = "+923448490118"
+global.ownername = "𝕯𝖆𝖓𝖎𝖘𝖍 𝕳𝖆𝖇𝖎𝖇³⁰²🔥🖤🇵🇰"
+global.ownernumber = '+923448490118'  //owner number 2
 //put your phone number above
 //let the owner as Danny or you can just put your name
 
@@ -21,16 +21,16 @@ global.autoRecording = true //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
 global.antilinkMode = true; // Default: disabled
 global.autostatusReact = true; // Default: disabled
 global.reactEmoji = '😂'; // Default reaction emoji
-//Thank you for using 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏
+//Thank you for using 𝕯𝖆𝖓𝖎𝖘𝖍 𝕳𝖆𝖇𝖎𝖇³⁰²🔥🖤🇵🇰
 //suppoet us by following our official channel
 //https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r
-//𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 𝒟𝒶𝓃𝓃𝓎
+//𝕯𝖆𝖓𝖎𝖘𝖍 𝕳𝖆𝖇𝖎𝖇³⁰²🔥🖤🇵🇰
 
 
 
